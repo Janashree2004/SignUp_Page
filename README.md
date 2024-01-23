@@ -54,7 +54,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## Output
 
-![image](https://github.com/Janashree2004/SignUpPage/assets/142415775/3f449053-1849-4ab1-925e-41a1752b90d9)
+
 
 ## License
 
